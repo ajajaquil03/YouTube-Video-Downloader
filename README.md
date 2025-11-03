@@ -44,7 +44,7 @@ The core download logic is contained in the Python script (e.g., `download.py`).
 
 1.  **Modify the Video URL:**
     Open the Python script and replace the placeholder URL with the actual URL of the YouTube video you wish to download:
-    [`YouTube Video Downloader`](https://github.com/ajajaquil03/YouTube-Video-Downloader/tree/6049ecf1d27521e0c93e365dd7411059f95e68ae/CODE) file for the full source code.
+    [`YouTube Video Downloader`](https://github.com/ajajaquil03/YouTube-Video-Downloader/tree/6049ecf1d27521e0c93e365dd7411059f95e68ae/CODE) 
 
 2.  **Run the script:**
     Execute the Python script from your terminal:

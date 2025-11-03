@@ -76,6 +76,11 @@ The options passed to the `yt_dlp.YoutubeDL` object are specifically chosen to e
 * `"outtmpl": "%(title)s.%(ext)s"`: Sets the output filename template to use the video's title.
 
 
-## 📞 Contact
+## 👤 Author
 
-**Ajaj Mahmud Aquil** - [LinkedIn Profile](https://www.linkedin.com/in/ajajmahmudaquil/)
+* **Ajaj Mahmud Aquil** - **[Github](https://github.com/ajajaquil03)**
+* **Ajaj Mahmud Aquil** - **[LinkedIn Profile](https://www.linkedin.com/in/ajajmahmudaquil/)**
+
+## ⭐ Support
+
+If you find this project helpful, please give it a ⭐ on GitHub!
